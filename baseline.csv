@@ -1,4 +1,14 @@
-DlEarfcn,MO,Parameter,Baseline
-500,INTERFREQHOGROUP,InterFreqHoA1ThdRsrp,-103
-1850,INTERFREQHOGROUP,InterFreqHoA1ThdRsrp,-103
-3500,INTERFREQHOGROUP,InterFreqHoA1ThdRsrp,-105
+DlEarfcn	MO	Parameter ID	Value
+	Cell	CellRadius	8000
+38750	Cell	FddTddInd	TDD
+38894	Cell	FddTddInd	TDD
+38948	Cell	FddTddInd	TDD
+39092	Cell	FddTddInd	TDD
+38750	Cell	SubframeAssignment	SA2
+38894	Cell	SubframeAssignment	SA2
+38948	Cell	SubframeAssignment	SA2
+39092	Cell	SubframeAssignment	SA2
+38750	Cell	SpecialSubframePatterns	SSP7
+38894	Cell	SpecialSubframePatterns	SSP7
+38948	Cell	SpecialSubframePatterns	SSP7
+39092	Cell	SpecialSubframePatterns	SSP7

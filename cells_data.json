@@ -1,0 +1,53 @@
+[
+  {
+    "element": 1,
+    "data": {
+      "attributes": {
+        "LocalCellId": "36",
+        "CellName": "C_BJI174VV1_LimauMungkur-TBG_VV03",
+        "CsgInd": "0",
+        "UlCyclicPrefix": "0",
+        "DlCyclicPrefix": "0",
+        "FreqBand": "40",
+        "UlEarfcnCfgInd": "0",
+        "DlEarfcn": "39092",
+        "UlBandWidth": "3",
+        "DlBandWidth": "3",
+        "CellId": "36",
+        "PhyCellId": "299",
+        "AdditionalSpectrumEmission": "1",
+        "CellActiveState": "1",
+        "CellAdminState": "0",
+        "FddTddInd": "1",
+        "SubframeAssignment": "2",
+        "SpecialSubframePatterns": "7",
+        "CellSpecificOffset": "15",
+        "QoffsetFreq": "15",
+        "RootSequenceIdx": "400",
+        "HighSpeedFlag": "0",
+        "PreambleFmt": "0",
+        "CellRadius": "2000",
+        "CustomizedBandWidthCfgInd": "0",
+        "UePowerMaxCfgInd": "0",
+        "MultiRruCellFlag": "0",
+        "CPRICompression": "0",
+        "CrsPortNum": "2",
+        "TxRxMode": "9",
+        "UserLabel": "",
+        "WorkMode": "0",
+        "EuCellStandbyMode": "0",
+        "NbCellFlag": "0",
+        "CellSlaveBand": {
+          "element": ""
+        },
+        "CnOpSharingGroupId": "255",
+        "IntraFreqRanSharingInd": "1",
+        "IntraFreqAnrInd": "1",
+        "CellRadiusStartLocation": "0",
+        "SpecifiedCellFlag": "0",
+        "MultiCellShareMode": "0",
+        "objId": "0"
+      }
+    }
+  }
+]
